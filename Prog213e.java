@@ -1,3 +1,11 @@
+/*Courtney Bryant
+ * Jordan-Matthews High
+ * Prog213e
+ * Created: November 23, 2008
+ * Description: This Program reads a file and tells how many people are within a certain age group.
+ * Difficulties: I had a little trouble getting the percent to work out correctly.  To fix this, I made my variables double.
+ * What I learned: I learned how to read a file and use if then statements to categorize information.
+ */
 import java.util.*;
 import java.io.*;
 import java.text.*;
